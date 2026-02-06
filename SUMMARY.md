@@ -8,10 +8,10 @@
   * [1.2 Basic Java Features](1.-introduction/1.2-basic-java-features.md)
   * [1.3 Java Workflow](1.-introduction/1.3-java-workflow.md)
 * [2. Defining and Using Classes](2.-defining-and-using-classes.md)
-
-<!--
 * [3. References, Recursion, and Lists](3.-references-recursion-and-lists.md)
 * [4. SLLists](4.-sllists.md)
+* [5. DLLists and Arrays](5.-dllists-and-arrays.md)
+<!--
 * [5. DLLists](5.-dllists.md)
 * [6. Arrays](6.-arrays.md)
 * [7. Testing](7.-testing.md)
