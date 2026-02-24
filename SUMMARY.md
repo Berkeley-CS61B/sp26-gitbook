@@ -52,11 +52,6 @@
   * [13.2 Binary Search](13.-asymptotics-iii/13.2-binary-search.md)
   * [13.3 Mergesort](13.-asymptotics-iii/13.3-mergesort.md)
   * [13.4 B-trees Big O](13.-asymptotics-iii/13.4-b-trees-big-o.md)
-<!--
-* [5. DLLists](5.-dllists.md)
-* [6. Arrays](6.-arrays.md)
-* [7. Testing](7.-testing.md)
-* [11. There is no chapter 11.](11.-inheritance-iii-subtype-polymorphism-comparators-comparable/README.md)
 * [14. Disjoint Sets](14.-disjoint-sets/README.md)
   * [14.1 Introduction](14.-disjoint-sets/14.1-introduction.md)
   * [14.2 Quick Find](14.-disjoint-sets/14.2-quick-find.md)
@@ -64,6 +59,11 @@
   * [14.4 Weighted Quick Union (WQU)](14.-disjoint-sets/14.4-weighted-quick-union-wqu.md)
   * [14.5 Weighted Quick Union with Path Compression](14.-disjoint-sets/14.5-weighted-quick-union-with-path-compression.md)
   * [14.6 Exercises](14.-disjoint-sets/14.6-exercises.md)
+<!--
+* [5. DLLists](5.-dllists.md)
+* [6. Arrays](6.-arrays.md)
+* [7. Testing](7.-testing.md)
+* [11. There is no chapter 11.](11.-inheritance-iii-subtype-polymorphism-comparators-comparable/README.md)
 * [16. ADTs and BSTs](16.-adts-and-bsts/README.md)
   * [16.1 Binary Search Trees](16.-adts-and-bsts/16.1-binary-search-trees.md)
   * [16.2 BST Definitions](16.-adts-and-bsts/16.2-bst-definitions.md)
