@@ -1,4 +1,4 @@
-# 16. ADTs and BSTs
+# 15. ADTs and BSTs
 
 In this Chapter we will discuss:
 
@@ -9,5 +9,3 @@ In this Chapter we will discuss:
 * Sets vs. Maps, Summary
 
 Additionally the video playlist is one that accompanies this chapter is the following:
-
-{% embed url="https://www.youtube.com/watch?v=aFOSePlOExw" %}
