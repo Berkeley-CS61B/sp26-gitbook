@@ -2,5 +2,5 @@
 description: By William Lee and Mihir Mirchandani
 ---
 
-# 24. Graph Traversals and Implementations
+# 20. Graph Traversals and Implementations
 
