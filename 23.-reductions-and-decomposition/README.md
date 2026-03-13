@@ -2,5 +2,5 @@
 description: By Mihir Mirchandani
 ---
 
-# 29. Reductions and Decomposition
+# 23. Reductions and Decomposition
 
