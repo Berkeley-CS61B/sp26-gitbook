@@ -2,9 +2,7 @@
 description: 'By: Thomas Lee'
 ---
 
-# 27. Prefix Operations and Tries
-
-{% embed url="https://www.youtube.com/watch?ab_channel=JoshHug&v=i-OuY5o_G8g" %}
+# 26. Prefix Operations and Tries
 
 ### The Search Problem
 

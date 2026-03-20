@@ -2,7 +2,7 @@
 description: By Aniruth Narayanan
 ---
 
-# 28. Software Engineering I
+# 27. Software Engineering I
 
 Prior to the Fall 2023 semester, Professor Hug had a lecture about software code complexity.
 

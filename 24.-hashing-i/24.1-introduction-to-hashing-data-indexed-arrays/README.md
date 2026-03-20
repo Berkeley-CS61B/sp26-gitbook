@@ -1,4 +1,4 @@
-# 20.1 Introduction to Hashing: Data Indexed Arrays
+# 24.1 Introduction to Hashing: Data Indexed Arrays
 
 So far in the course, we've taken a look at many ways to store things in data structures, but they're not always the most efficient in terms of runtime. Enter an incredible data structure that can provide insertion, removal, and contains checks, regardless of how many elements are inside of it (even if theres millions of items)– all in O(1) runtime in the best case! Sound too good to be true?&#x20;
 
@@ -12,10 +12,6 @@ However, there are some limitations that these structures impose (yes, even 2-3 
 
 1. They require that items be comparable. How do you decide where a new item goes in a BST? You have to answer the question "are you smaller than or bigger than the root"? For some objects, this question may make no sense.
 2. They give a complexity of $$\Theta(logN)$$. Is this good? Absolutely. But maybe we can do better.
-
-{% embed url="https://www.youtube.com/watch?index=1&list=PL8FaHk7qbOD67rFIKNVkDcucFwNjUq9-d&v=rSqSlu8sEkI" %}
-Professor Hug's Lecture on Hash Tables.
-{% endembed %}
 
 ### Using Data as Indices
 
